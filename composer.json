@@ -1,5 +1,5 @@
 {
-    "name": "black-bits/laravel-cognito-auth",
+    "name": "joking777/laravel-cognito-auth",
     "description": "An auth provider for Laravel for AWS Cognito.",
     "keywords": [
         "BlackBits",
